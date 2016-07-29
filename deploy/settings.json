@@ -1,0 +1,13 @@
+{
+  "public": {
+    "app": "testcase",
+    "loglevel": "trace",
+  },
+  "email": {
+    "username": "",
+    "password": "",
+    "host": "smtp.mailgun.org",
+    "port": "587",
+    "domain_suffix": "@eltoro.com"
+  }
+}
